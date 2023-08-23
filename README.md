@@ -2,13 +2,15 @@
 
 ## ▶️ DQN Agent on 10x10 Tetris Board Video
 
-[![DQN Agent on 10x10 Tetris Board Video](https://www.youtube.com/watch?v=r6K-gYsgYxY)](https://www.youtube.com/watch?v=r6K-gYsgYxY)
+[![DQN Agent on 10x10 Tetris Board GIF]](https://github.com/Sonali2824/Dissertation_Graphs_and_Models/blob/main/AGENTS%2010X10%20VIDEOS/DQN.gif)
+
+<a href="https://www.youtube.com/watch?v=r6K-gYsgYxY"> <b>DQN TRAINED AGENT - 5 EPISODES</b></a>
 
 ## 🎬 SAC Agent on 10x10 Tetris Board Video
 
-[![SAC Agent on 10x10 Tetris Board Video](https://www.youtube.com/watch?v=qWA7CK0S4aA)](https://www.youtube.com/watch?v=qWA7CK0S4aA)
+[![SAC Agent on 10x10 Tetris Board Video]](https://github.com/Sonali2824/Dissertation_Graphs_and_Models/blob/main/AGENTS%2010X10%20VIDEOS/SAC.gif)
 
-
+<a href="https://www.youtube.com/watch?v=qWA7CK0S4aA"> <b>SAC TRAINED AGENT - 5 EPISODES</b></a>
 
 ## 📁 Decription of Folder and File Content
 
@@ -44,4 +46,15 @@
 : Comprises models of the agents trained for performance check.
 16. <a href="https://drive.google.com/file/d/1vx-u0VX82jgjZsD5YHHQJKU9Cxb_izpi/view?usp=sharing"> <b>Extensively Trained Agents Graphs</b></a>
 : Comprises  folders that comprise files that store event logs that contain summary data from TensorFlow runs to generate the graphs depicted in the images (extensively trained agents).
+
+## ⚙️ Running the code
+
+```sh
+# You can also  visualise the graphs via TensorBoard
+tensorboard --logdir <exp_name> # exp_name refers to the log directory
+
+# To view the Hyperparameter Tuning Reults
+pip install optuna-dashboard
+optuna-dashboard sqlite:///<db.sqlite3> # Mention name of the DB
+```
 
