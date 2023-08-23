@@ -2,13 +2,13 @@
 
 ## ▶️ DQN Agent on 10x10 Tetris Board Video
 
-[![DQN Agent on 10x10 Tetris Board GIF]](https://github.com/Sonali2824/Dissertation_Graphs_and_Models/blob/main/AGENTS%2010X10%20VIDEOS/DQN.gif)
+![](https://github.com/Sonali2824/Dissertation_Graphs_and_Models/blob/main/AGENTS%2010X10%20VIDEOS/DQN.gif)
 
 <a href="https://www.youtube.com/watch?v=r6K-gYsgYxY"> <b>DQN TRAINED AGENT - 5 EPISODES</b></a>
 
 ## 🎬 SAC Agent on 10x10 Tetris Board Video
 
-[![SAC Agent on 10x10 Tetris Board Video]](https://github.com/Sonali2824/Dissertation_Graphs_and_Models/blob/main/AGENTS%2010X10%20VIDEOS/SAC.gif)
+![](https://github.com/Sonali2824/Dissertation_Graphs_and_Models/blob/main/AGENTS%2010X10%20VIDEOS/SAC.gif)
 
 <a href="https://www.youtube.com/watch?v=qWA7CK0S4aA"> <b>SAC TRAINED AGENT - 5 EPISODES</b></a>
 
