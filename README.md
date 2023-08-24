@@ -56,5 +56,6 @@ tensorboard --logdir <exp_name> # exp_name refers to the log directory
 # To view the Hyperparameter Tuning Reults
 pip install optuna-dashboard
 optuna-dashboard sqlite:///<db.sqlite3> # Mention name of the DB
+# You may have to make some changes to the optuna-dashboard .py files to print "list" values on the webpage
 ```
 
