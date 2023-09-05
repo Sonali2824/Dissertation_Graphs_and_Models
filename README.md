@@ -14,7 +14,7 @@
 
 ## ▶️ DQN Agent on 10x20 Tetris Board Video
 
-![](https://github.com/Sonali2824/Dissertation_Graphs_and_Models/blob/main/AGENTS%2010X10%20VIDEOS/DQN.gif)
+![](https://github.com/Sonali2824/Dissertation_Graphs_and_Models/blob/main/AGENTS%2010X20%20VIDEOS/DQN_10_20_GIF.gif)
 
 <a href="https://youtu.be/r6K-gYsgYxYY"> <b>DQN TRAINED AGENT - 5 EPISODES</b></a>
 
