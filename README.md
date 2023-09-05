@@ -56,7 +56,7 @@
 : Comprises folders that comprise files that store event logs that contain summary data from TensorFlow runs to generate the graphs depicted in the images.
 15. <a href="https://github.com/Sonali2824/Dissertation_Graphs_and_Models/tree/main/MODELS"> <b>MODELS</b></a>
 : Comprises models of the agents trained for performance check.
-16. <a href="https://drive.google.com/file/d/1akyux1SKscFwYbrTRrbnb34m78PXK1zF/view?usp=sharing"> <b>Extensively Trained Agents Graphs</b></a>
+16. <a href="https://drive.google.com/file/d/1akyux1SKscFwYbrTRrbnb34m78PXK1zF/view?usp=sharing"> <b>EXTENSIVELY TRAINED AGENTS GRAPHS</b></a>
 : Comprises  folders that comprise files that store event logs that contain summary data from TensorFlow runs to generate the graphs depicted in the images (extensively trained agents).
 17. <a href="https://github.com/Sonali2824/Dissertation_Graphs_and_Models/tree/main/AGENTS%2010X20%20VIDEOS"> <b>AGENTS 10X20 VIDEOS</b></a>
 : Videos demonstrating performance of DQN and SAC agents on a 10x20 Tetris board.
