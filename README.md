@@ -12,6 +12,18 @@
 
 <a href="https://www.youtube.com/watch?v=PBSAYjzWNO8"> <b>SAC TRAINED AGENT - 5 EPISODES</b></a>
 
+## ▶️ DQN Agent on 10x20 Tetris Board Video
+
+![](https://github.com/Sonali2824/Dissertation_Graphs_and_Models/blob/main/AGENTS%2010X10%20VIDEOS/DQN.gif)
+
+<a href="https://youtu.be/r6K-gYsgYxYY"> <b>DQN TRAINED AGENT - 5 EPISODES</b></a>
+
+## 🎬 SAC Agent on 10x20 Tetris Board Video
+
+![](https://github.com/Sonali2824/Dissertation_Graphs_and_Models/blob/main/AGENTS%2010X10%20VIDEOS/SAC.gif)
+
+<a href="https://youtu.be/PBSAYjzWNO8"> <b>SAC TRAINED AGENT - 5 EPISODES</b></a>
+
 ## 📁 Decription of Folder and File Content
 
 1. <a href="https://github.com/Sonali2824/Dissertation_Graphs_and_Models/tree/main/AGENTS%2010X10%20VIDEOS"> <b>AGENTS 10X10 VIDEOS</b></a>
