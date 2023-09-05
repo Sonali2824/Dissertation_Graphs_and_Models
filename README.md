@@ -20,7 +20,7 @@
 
 ## 🎬 SAC Agent on 10x20 Tetris Board Video
 
-![](https://github.com/Sonali2824/Dissertation_Graphs_and_Models/blob/main/AGENTS%2010X10%20VIDEOS/SAC.gif)
+![](https://github.com/Sonali2824/Dissertation_Graphs_and_Models/blob/main/AGENTS%2010X20%20VIDEOS/SAC_10_20_GIF.gif)
 
 <a href="https://youtu.be/PBSAYjzWNO8"> <b>SAC TRAINED AGENT - 5 EPISODES</b></a>
 
@@ -56,8 +56,14 @@
 : Comprises folders that comprise files that store event logs that contain summary data from TensorFlow runs to generate the graphs depicted in the images.
 15. <a href="https://github.com/Sonali2824/Dissertation_Graphs_and_Models/tree/main/MODELS"> <b>MODELS</b></a>
 : Comprises models of the agents trained for performance check.
-16. <a href="https://drive.google.com/file/d/1ZECJwro9ixO0HhLoq07aHErYatjKKY-i/view?usp=sharing"> <b>Extensively Trained Agents Graphs</b></a>
+16. <a href="https://drive.google.com/file/d/1akyux1SKscFwYbrTRrbnb34m78PXK1zF/view?usp=sharing"> <b>Extensively Trained Agents Graphs</b></a>
 : Comprises  folders that comprise files that store event logs that contain summary data from TensorFlow runs to generate the graphs depicted in the images (extensively trained agents).
+17. <a href="https://github.com/Sonali2824/Dissertation_Graphs_and_Models/tree/main/AGENTS%2010X20%20VIDEOS"> <b>AGENTS 10X20 VIDEOS</b></a>
+: Videos demonstrating performance of DQN and SAC agents on a 10x20 Tetris board.
+18. <a href="https://github.com/Sonali2824/Dissertation_Graphs_and_Models/tree/main/SAC%20VS%20DQN%20EVAL%2010X20"> <b>SAC VS DQN EVAL 10X20</b></a>
+: Comprises images comparing the performance of the DQN and SAC agents on a 10x20 Tetris board during the evaluation phase.
+19. <a href="https://github.com/Sonali2824/Dissertation_Graphs_and_Models/tree/main/DQN%20VS%20SAC%20ON%2010X20%20BOARD%20GRAPHICAL%20RESULTS"> <b>DQN VS SAC ON 10X20 BOARD GRAPHICAL RESULTS</b></a>
+: Comprises images of the graphical results of the DQN and SAC agents on a 10x20 Tetris board during the training phase.
 
 ## ⚙️ Running the code
 
